@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388515119273",
+    "project_id": "readwritedatabase-3bbe7",
+    "storage_bucket": "readwritedatabase-3bbe7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388515119273:android:cd5fd446c653a62dce69b8",
+        "android_client_info": {
+          "package_name": "com.example.readwritedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpGap6m5jVyjFBKY2fdau0B4jHZKT9qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

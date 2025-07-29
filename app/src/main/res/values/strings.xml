@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReadWriteDatabase</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_id">Enter your ID</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="registration">Registration</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_uniqueid">Enter your UniqueID</string>
+    <string name="sign_in1">Sign In</string>
+</resources>
